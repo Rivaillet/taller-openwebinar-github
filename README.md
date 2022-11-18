@@ -4,7 +4,7 @@ este repositorio contiene información para alojar un proyecto de documentación
 
 ## Este es un titulo mas pequeño del readme 
 
-** Ahora vamos a hacer una lista **
+**Ahora vamos a hacer una lista**
 
 * Huevos
 * Pan
